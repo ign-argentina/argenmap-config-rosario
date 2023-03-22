@@ -75,7 +75,7 @@
     "height": "",
     "width": "400px",
     "style": "/*filter: drop-shadow(1px 1px 1px #103847); width: 278px;*/",
-    "srcLogoMini": "src/config/styles/images/logo.png",
+    "srcLogoMini": "src/config/styles/images/logos-mini.png",
     "miniHeight": "",
     "miniWidth": "",
     "ministyle": "/*filter: drop-shadow(1px 1px 1px #103847); width: 278px;*/",
